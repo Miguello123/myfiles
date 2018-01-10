@@ -2,7 +2,7 @@
 #include<fstream>
 #include<cstdlib>
 using namespace std;
-
+//belweder of brołken drims
 int main()
 {
     int imie;
